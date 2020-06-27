@@ -25,7 +25,7 @@ Simple Publish Subscribe model using RabbitMQ created using Docker Container and
     "consume": "node consumer.js"
   }
 
- 8. Open two terminal
+ 8. Open two terminals
 
  9. On first terminal enter command
  -> npm run consume
